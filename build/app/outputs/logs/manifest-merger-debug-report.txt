@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:1:1-37:12
+MERGED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:1:1-37:12
+MERGED from [:flutter_inappwebview] E:\flutterProjects\SDRO_flutter_ios\build\flutter_inappwebview\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-18:12
+MERGED from [:permission_handler] E:\flutterProjects\SDRO_flutter_ios\build\permission_handler\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity] E:\flutterProjects\SDRO_flutter_ios\build\connectivity\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-10:12
+MERGED from [:flutter_statusbarcolor] E:\flutterProjects\SDRO_flutter_ios\build\flutter_statusbarcolor\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webview_plugin] E:\flutterProjects\SDRO_flutter_ios\build\flutter_webview_plugin\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-21:12
+MERGED from [:webview_flutter] E:\flutterProjects\SDRO_flutter_ios\build\webview_flutter\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\webkit-1.0.0.aar\ddd2cb026acd05c25e25f9284720c22c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\55db4fcd5079884800991a8fc2f38c6b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\0506e1c6a08e0734203dfb8eef9b7092\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\945a91c23c3c0b6239109711a0c3d33a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\c1c68cc857faf8d3b92c5708a9c1df74\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\d28d4564ac6396eb6ca001fdd4bde2e8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\3baea52086a374d0595ca885d48efc4f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\bbda6915a2f74ad4e6a8b7d901f71f31\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\35d9470fd454982dea5d5a166d5be33f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4d8f0b62e7c511eb8ef1800e7dcb7699\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\ce53af2ba9eb3c03dda0d9f3d56760c5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\49343968ef9e8c36990b78ac3e526bbc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\8458bcc5c0c210aced16f39e16878843\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\42b3fba61401a0078d238310f176dc3e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\b4c323c9ecc79e7beb684f1c779ed395\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\f17a1f6b6969a1b00badf00bf536b77a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\4fa41a27c808141103035091565280c0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\916b230fe7637fadc82a9267e12ca239\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\c727a02a4e32644f79e157438740aaeb\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\1e6c78db4e002630c4f5e6a02f8a3970\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\0dcae21cab55a257106895d9e62b0063\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\3fee4907a39697d3f2751c155176f1b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\2c81c9e6578e1dbb0207dcc0ed326bba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\334af951db30a2384c81fd15c7e63cb9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\4869dccc672072286713e2833b03d8c0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\8134444d0d9058f370968b6102e72917\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\92f9e39edc9b1f70de0f8a84e0ee4ac2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\6d21f629ad38065b5b8e892d14bd8e50\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\4debcf0a1ee265e1a67ac0b1d2bc0597\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3309c87491640bf09b8c31326fae72b6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\8c1d795542699c227859a43f52249abe\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:1:1-37:12
+		INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:1:1-37:12
+		INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:4:5-79
+MERGED from [:connectivity] E:\flutterProjects\SDRO_flutter_ios\build\connectivity\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-79
+MERGED from [:connectivity] E:\flutterProjects\SDRO_flutter_ios\build\connectivity\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.CAMERA
+ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.webkit.PermissionRequest
+ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:6:22-69
+application
+ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:12:5-36:19
+MERGED from [:flutter_inappwebview] E:\flutterProjects\SDRO_flutter_ios\build\flutter_inappwebview\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-16:19
+MERGED from [:flutter_inappwebview] E:\flutterProjects\SDRO_flutter_ios\build\flutter_inappwebview\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-16:19
+MERGED from [:flutter_webview_plugin] E:\flutterProjects\SDRO_flutter_ios\build\flutter_webview_plugin\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-19:19
+MERGED from [:flutter_webview_plugin] E:\flutterProjects\SDRO_flutter_ios\build\flutter_webview_plugin\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-19:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\c727a02a4e32644f79e157438740aaeb\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\c727a02a4e32644f79e157438740aaeb\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\4869dccc672072286713e2833b03d8c0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\4869dccc672072286713e2833b03d8c0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\c727a02a4e32644f79e157438740aaeb\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:16:9-43
+	android:usesCleartextTraffic
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:13:9-57
+activity#com.anbdevelopers.sdroios.MainActivity
+ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:17:9-35:20
+	android:launchMode
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:19:13-43
+	android:hardwareAccelerated
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:windowSoftInputMode
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:23:13-55
+	android:configChanges
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:21:13-144
+	android:theme
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:18:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:28:13-30:40
+	android:value
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:30:17-37
+	android:name
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:29:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_inappwebview] E:\flutterProjects\SDRO_flutter_ios\build\flutter_inappwebview\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] E:\flutterProjects\SDRO_flutter_ios\build\flutter_inappwebview\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] E:\flutterProjects\SDRO_flutter_ios\build\permission_handler\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] E:\flutterProjects\SDRO_flutter_ios\build\permission_handler\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] E:\flutterProjects\SDRO_flutter_ios\build\connectivity\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] E:\flutterProjects\SDRO_flutter_ios\build\connectivity\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_statusbarcolor] E:\flutterProjects\SDRO_flutter_ios\build\flutter_statusbarcolor\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_statusbarcolor] E:\flutterProjects\SDRO_flutter_ios\build\flutter_statusbarcolor\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] E:\flutterProjects\SDRO_flutter_ios\build\flutter_webview_plugin\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:6:5-44
+MERGED from [:flutter_webview_plugin] E:\flutterProjects\SDRO_flutter_ios\build\flutter_webview_plugin\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:6:5-44
+MERGED from [:webview_flutter] E:\flutterProjects\SDRO_flutter_ios\build\webview_flutter\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] E:\flutterProjects\SDRO_flutter_ios\build\webview_flutter\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\webkit-1.0.0.aar\ddd2cb026acd05c25e25f9284720c22c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\webkit-1.0.0.aar\ddd2cb026acd05c25e25f9284720c22c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\55db4fcd5079884800991a8fc2f38c6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\55db4fcd5079884800991a8fc2f38c6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\0506e1c6a08e0734203dfb8eef9b7092\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\0506e1c6a08e0734203dfb8eef9b7092\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\945a91c23c3c0b6239109711a0c3d33a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\945a91c23c3c0b6239109711a0c3d33a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\c1c68cc857faf8d3b92c5708a9c1df74\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\c1c68cc857faf8d3b92c5708a9c1df74\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\d28d4564ac6396eb6ca001fdd4bde2e8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\d28d4564ac6396eb6ca001fdd4bde2e8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\3baea52086a374d0595ca885d48efc4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\3baea52086a374d0595ca885d48efc4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\bbda6915a2f74ad4e6a8b7d901f71f31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\bbda6915a2f74ad4e6a8b7d901f71f31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\35d9470fd454982dea5d5a166d5be33f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\35d9470fd454982dea5d5a166d5be33f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4d8f0b62e7c511eb8ef1800e7dcb7699\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4d8f0b62e7c511eb8ef1800e7dcb7699\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\ce53af2ba9eb3c03dda0d9f3d56760c5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\ce53af2ba9eb3c03dda0d9f3d56760c5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\49343968ef9e8c36990b78ac3e526bbc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\49343968ef9e8c36990b78ac3e526bbc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\8458bcc5c0c210aced16f39e16878843\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\8458bcc5c0c210aced16f39e16878843\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\42b3fba61401a0078d238310f176dc3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\42b3fba61401a0078d238310f176dc3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\b4c323c9ecc79e7beb684f1c779ed395\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\b4c323c9ecc79e7beb684f1c779ed395\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\f17a1f6b6969a1b00badf00bf536b77a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\f17a1f6b6969a1b00badf00bf536b77a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\4fa41a27c808141103035091565280c0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\4fa41a27c808141103035091565280c0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\916b230fe7637fadc82a9267e12ca239\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\916b230fe7637fadc82a9267e12ca239\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\c727a02a4e32644f79e157438740aaeb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\c727a02a4e32644f79e157438740aaeb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\1e6c78db4e002630c4f5e6a02f8a3970\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\1e6c78db4e002630c4f5e6a02f8a3970\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\0dcae21cab55a257106895d9e62b0063\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\0dcae21cab55a257106895d9e62b0063\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\3fee4907a39697d3f2751c155176f1b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\3fee4907a39697d3f2751c155176f1b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\2c81c9e6578e1dbb0207dcc0ed326bba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\2c81c9e6578e1dbb0207dcc0ed326bba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\334af951db30a2384c81fd15c7e63cb9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\334af951db30a2384c81fd15c7e63cb9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\4869dccc672072286713e2833b03d8c0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\4869dccc672072286713e2833b03d8c0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\8134444d0d9058f370968b6102e72917\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\8134444d0d9058f370968b6102e72917\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\92f9e39edc9b1f70de0f8a84e0ee4ac2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\92f9e39edc9b1f70de0f8a84e0ee4ac2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\6d21f629ad38065b5b8e892d14bd8e50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\6d21f629ad38065b5b8e892d14bd8e50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\4debcf0a1ee265e1a67ac0b1d2bc0597\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\4debcf0a1ee265e1a67ac0b1d2bc0597\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3309c87491640bf09b8c31326fae72b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3309c87491640bf09b8c31326fae72b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\8c1d795542699c227859a43f52249abe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ahmed Bilal\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\8c1d795542699c227859a43f52249abe\AndroidManifest.xml:20:5-44
+INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\flutterProjects\SDRO_flutter_ios\android\app\src\debug\AndroidManifest.xml
+activity#com.pichillilorenzo.flutter_inappwebview.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] E:\flutterProjects\SDRO_flutter_ios\build\flutter_inappwebview\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-11:47
+	android:configChanges
+		ADDED from [:flutter_inappwebview] E:\flutterProjects\SDRO_flutter_ios\build\flutter_inappwebview\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:13-59
+	android:theme
+		ADDED from [:flutter_inappwebview] E:\flutterProjects\SDRO_flutter_ios\build\flutter_inappwebview\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] E:\flutterProjects\SDRO_flutter_ios\build\flutter_inappwebview\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:13-89
+activity#com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] E:\flutterProjects\SDRO_flutter_ios\build\flutter_inappwebview\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:9-15:55
+	android:configChanges
+		ADDED from [:flutter_inappwebview] E:\flutterProjects\SDRO_flutter_ios\build\flutter_inappwebview\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:13-59
+	android:theme
+		ADDED from [:flutter_inappwebview] E:\flutterProjects\SDRO_flutter_ios\build\flutter_inappwebview\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] E:\flutterProjects\SDRO_flutter_ios\build\flutter_inappwebview\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:13-110
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:connectivity] E:\flutterProjects\SDRO_flutter_ios\build\connectivity\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from [:connectivity] E:\flutterProjects\SDRO_flutter_ios\build\connectivity\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:22-73
+provider#androidx.core.content.FileProvider
+ADDED from [:flutter_webview_plugin] E:\flutterProjects\SDRO_flutter_ios\build\flutter_webview_plugin\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:9-18:20
+	android:grantUriPermissions
+		ADDED from [:flutter_webview_plugin] E:\flutterProjects\SDRO_flutter_ios\build\flutter_webview_plugin\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:flutter_webview_plugin] E:\flutterProjects\SDRO_flutter_ios\build\flutter_webview_plugin\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:13-64
+	android:exported
+		ADDED from [:flutter_webview_plugin] E:\flutterProjects\SDRO_flutter_ios\build\flutter_webview_plugin\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:13-37
+	tools:replace
+		ADDED from [:flutter_webview_plugin] E:\flutterProjects\SDRO_flutter_ios\build\flutter_webview_plugin\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:13-48
+	android:name
+		ADDED from [:flutter_webview_plugin] E:\flutterProjects\SDRO_flutter_ios\build\flutter_webview_plugin\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:flutter_webview_plugin] E:\flutterProjects\SDRO_flutter_ios\build\flutter_webview_plugin\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:13-17:53
+	android:resource
+		ADDED from [:flutter_webview_plugin] E:\flutterProjects\SDRO_flutter_ios\build\flutter_webview_plugin\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:17-50
+	android:name
+		ADDED from [:flutter_webview_plugin] E:\flutterProjects\SDRO_flutter_ios\build\flutter_webview_plugin\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:17-67
